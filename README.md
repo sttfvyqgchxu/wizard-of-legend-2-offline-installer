@@ -26,6 +26,10 @@
 
 </div>
 
+<div align="center">
+<img width="460" height="215" alt="Wizard of Legend 2" src="https://raw.githubusercontent.com/sttfvyqgchxu/wizard-of-legend-2-offline-installer/main/game.jpg" />
+</div>
+
 ---
 
 ## 📖 About Wizard of Legend 2
